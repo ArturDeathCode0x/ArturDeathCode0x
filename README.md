@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="Kali-dragon-icon.svg.png" width="150px">
+  <img src="https://github.com/ArturDeathCode0x/ArturDeathCode0x/blob/main/Kali-dragon-icon.svg.png width="150px">
 </p>
 
 ---
