@@ -109,7 +109,6 @@ Blue Team, Red Team e Security Research.
 
 ## 🐍 Minhas Contribuições
 
-<h2 align="center">🐍 Minhas Contribuições</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ArturDeathCode0x/ArturDeathCode0x/output/snake.svg" alt="Snake animation">
