@@ -1,5 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=6000&color=000000&lines=Olá!+👋;+Seja+Bem-Vindo!;+Eu+sou+ArturDeathCode0x;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=6000&color=00BFFF&lines=Olá!+👋;+Seja+Bem-Vindo!;+Eu+sou+ArturDeathCode0x" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="50px" />
 </h1>
 
 <h3 align="center">
