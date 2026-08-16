@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="Kali-dragon-icon.svg.png "width="450px">
+  <img src="Kali-dragon-icon.svg.png "width="500px">
 </p>
 
 ---
