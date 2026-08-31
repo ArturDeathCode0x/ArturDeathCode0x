@@ -1,12 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=6000&color=00BFFF&lines=Olá!+👋;+Seja+Bem-Vindo!;+Eu+sou+ArturDeathCode0x" />
-  <img src="octocat.gif" width="80px" />
-   <img src="hollow-knight-knight.gif" width="100px" />
-</h1>
-
-<h3 align="center">
-  🛡️ Cybersecurity Student | Security Researcher
-</h3>
+![MultiTaskingGuy](https://github.com/user-attachments/assets/eba80995-c43b-4282-9058-cda308b42e67)
 
 <p align="center">
   Estudante de Cibersegurança com foco em programação, redes,
