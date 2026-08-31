@@ -1,14 +1,5 @@
 ![MultiTaskingGuy](https://github.com/user-attachments/assets/eba80995-c43b-4282-9058-cda308b42e67)
 
-<p align="center">
-  Estudante de Cibersegurança com foco em programação, redes,
-  Linux e segurança ofensiva e defensiva.
-</p>
-
-<p align="center">
-  <img src="Kali-dragon-icon.svg.png "width="500px">
-</p>
-
 ---
 
 ## 🛡️ Sobre Mim
