@@ -2,81 +2,41 @@
 
 ---
 
-## 🛡️ Sobre Mim
+<h1>🪶 Sobre mim</h1>
 
-🎓 Estudante de Cibersegurança  
-💻 Foco em programação e segurança da informação  
-🐧 Entusiasta de Linux e ambientes de laboratório  
-🌐 Estudos em redes e protocolos  
-🔐 Interesse em segurança ofensiva e defensiva  
-🧪 Prática em ambientes controlados e autorizados  
+- 🎓 Cursando Segurança da Informação (SENAC)
+- 🎓 Técnico em Informática (PRONATEC)
+- 📍 Possuo as certifcações, 
+- 👾 Pentester & Bug Hunter
+- 🎖️ Raciocínio Analítico
+- 🏆 Mentalidade Ofensiva
 
----
+<h2>☠️ Linguagens e Tecnologias</h2>
 
-## 🛡️ Cybersecurity
-
-- 🌐 Redes e protocolos
-- 🔎 Análise de vulnerabilidades
-- 🐧 Linux
-- 🔐 Segurança de sistemas
-- 🧪 Cybersecurity Labs
-- 🕵️ OSINT
-- 🎯 Pentest em ambientes autorizados
-- 🛡️ Fundamentos de segurança da informação
-
----
-
-## 💻 Tecnologias e Ferramentas
-
-<div align="center">
-
-### Linguagens
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45px" title="C">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45px" title="Python">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="45px" title="C#">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="45px" title="Bash">
-
-### Banco de Dados
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45px" title="MySQL">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="45px" title="SQL Server">
-
-### Ferramentas
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45px" title="Git">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45px" title="GitHub">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45px" title="Linux">
-
+<div align="inline-block">
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white">
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
 </div>
 
----
+<h2>👨‍💻 Contato e Perfis </h2>
+<div align="inline-block">
+  <a href="https://linkedin.com/in/pedroartur-cyber target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ 
+</div>
 
-## 🚀 Melhores Projetos
-
-### 🔹 Projetos em C
-Projetos voltados para lógica de programação, memória,
-estruturas e fundamentos de sistemas.
-
-### 🔹 Projetos Python
-Automação, scripts, ferramentas e estudos aplicados à
-cibersegurança.
-
-### 🔹 Bash Fundamentals
-Scripts para Linux, automação, processos, arquivos,
-variáveis, funções e administração do sistema.
-
-### 🔹 Cybersecurity Labs
-Laboratórios práticos para estudo de redes, segurança,
-reconhecimento e análise em ambientes controlados.
-
-### 🔹 Projetos de Segurança
-Projetos pessoais relacionados a Cybersecurity,
-Blue Team, Red Team e Security Research.
-
-> 🚧 Mais projetos serão adicionados em breve.
-
----
 
 ## 📊 GitHub Stats
 
@@ -90,48 +50,14 @@ Blue Team, Red Team e Security Research.
 
 ---
 
-## 🐍 Minhas Contribuições
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ArturDeathCode0x/ArturDeathCode0x/output/snake.svg" alt="Snake animation">
 </p>
 ---
 
-## 📈 Atividade
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArturDeathCode0x&theme=github-compact&hide_border=true" />
 </p>
 
----
-
-## 📚 Atualmente Estudando
-
-- 🛡️ Cybersecurity
-- 🐧 Linux
-- 🌐 Redes de Computadores
-- 💻 Linguagem C
-- 🐍 Python
-- 💻 Bash
-- 🔐 Segurança Ofensiva
-- 🛡️ Segurança Defensiva
-- 🔎 Análise de Vulnerabilidades
-- 🧪 Security Labs
-
----
-
-## 🎯 Objetivos
-
-```text
-[✓] Fundamentos de programação
-[✓] Linux
-[✓] Redes
-[✓] Fundamentos de Cybersecurity
-[ ] Aprofundar C
-[ ] Aprofundar Python para Security
-[ ] Aprofundar Bash
-[ ] Mais Cybersecurity Labs
-[ ] Criar ferramentas próprias
-[ ] Expandir portfólio de projetos
-[ ] Evoluir em Red Team / Blue Team
