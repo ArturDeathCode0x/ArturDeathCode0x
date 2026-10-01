@@ -79,12 +79,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ArturDeathCode0x/ArturDeathCode0x/output/snake.svg" alt="Snake animation">
-</p>
 
----
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArturDeathCode0x&theme=github-compact&hide_border=true" />
-</p>
