@@ -48,24 +48,4 @@
 
 ---
 
-<h2>🚀 Projetos em Destaque</h2>
-
-<p align="left">
-  <a href="https://github.com/ArturDeathCode0x/PROJETO-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArturDeathCode0x&repo=PROJETO-1&theme=dark" />
-  </a>
-  <a href="https://github.com/ArturDeathCode0x/PROJETO-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArturDeathCode0x&repo=PROJETO-2&theme=dark" />
-  </a>
-  <br><br>
-  <a href="https://github.com/ArturDeathCode0x/PROJETO-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArturDeathCode0x&repo=PROJETO-3&theme=dark" />
-  </a>
-  <a href="https://github.com/ArturDeathCode0x/PROJETO-4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArturDeathCode0x&repo=PROJETO-4&theme=dark" />
-  </a>
-</p>
-
----
-
 
