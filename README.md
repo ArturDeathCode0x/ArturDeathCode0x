@@ -46,6 +46,30 @@
   </a>
 </p>
 
----
+<h2>🚀 Featured Projects</h2>
 
+<h3>🛡️ Security Projects</h3>
+
+<p align="left">
+  <a href="https://github.com/ArturDeathCode0x/worm.c">
+    <img src="https://img.shields.io/badge/worm.c-F72585?style=for-the-badge&logo=c&logoColor=white" alt="worm.c"/>
+  </a>
+  <a href="https://github.com/ArturDeathCode0x/WebCrawler">
+    <img src="https://img.shields.io/badge/WebCrawler-F72585?style=for-the-badge&logo=github&logoColor=white" alt="WebCrawler"/>
+  </a>
+</p>
+
+<h3>💻 Programming</h3>
+
+<p align="left">
+  <a href="https://github.com/ArturDeathCode0x/Programming.-C">
+    <img src="https://img.shields.io/badge/Programming.--C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="Programming C"/>
+  </a>
+  <a href="https://github.com/ArturDeathCode0x/Programming.-python">
+    <img src="https://img.shields.io/badge/Programming.--Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Programming Python"/>
+  </a>
+  <a href="https://github.com/ArturDeathCode0x/Programming.-Shell-Scripting">
+    <img src="https://img.shields.io/badge/Programming.--Shell_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Programming Shell Scripting"/>
+  </a>
+</p>
 
