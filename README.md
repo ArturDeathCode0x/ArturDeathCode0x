@@ -8,7 +8,7 @@
 
 - 🎓 Cursando Segurança da Informação (SENAC)
 - 🎓 Técnico em Informática (PRONATEC)
-- 📍 Certificações: *(adicione aqui suas certificações)*
+- 📍 Certificações: <a href="https://www.linkedin.com/in/pedroartur-cyber/details/certifications/">Acessar lista completa</a>
 - 👾 Pentester & Bug Hunter
 - 🎖️ Raciocínio Analítico
 - 🏆 Mentalidade Ofensiva
@@ -33,27 +33,16 @@
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
 </p>
 
-<h2>👨‍💻 Contato e Perfis</h2>
-
-<p align="left">
-  <a href="https://linkedin.com/in/pedroartur-cyber" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/ArturDeathCode0x">
     <img src="https://github-readme-stats.vercel.app/api?username=ArturDeathCode0x&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <a href="https://github.com/ArturDeathCode0x/c-programming">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArturDeathCode0x&repo=c-programming&theme=dark" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ArturDeathCode0x">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturDeathCode0x&layout=compact&langs_count=3&theme=radical&hide_border=true" alt="Top 3 Most Used Languages"/>
   </a>
 </p>
 
