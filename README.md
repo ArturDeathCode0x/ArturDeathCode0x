@@ -34,13 +34,3 @@
 </p>
 
 
-<h2>📬 Contato</h2>
-
-<p align="left">
-  <a href="mailto:pedroartur.cyber@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-pedroartur.cyber%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://wa.me/558592888943">
-    <img src="https://img.shields.io/badge/WhatsApp-(85)%2092888--8943-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-</p>
