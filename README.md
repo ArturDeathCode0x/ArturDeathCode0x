@@ -34,3 +34,20 @@
 </p>
 
 
+
+<h2>📂 Área de Projetos</h2>
+
+<p>Repositórios e laboratórios de estudo em segurança da informação:</p>
+
+- 🔎 <a href="https://github.com/ArturDeathCode0x/Google-Hacking">Google Hacking</a>
+- 🗂️ <a href="https://github.com/ArturDeathCode0x/Google-Hacking-Database">Google Hacking Database</a>
+- 🌐 <a href="https://github.com/ArturDeathCode0x/Bing-Hacking">Bing Hacking</a>
+- 🕵️ <a href="https://github.com/ArturDeathCode0x/Hunter-IO">Hunter.io</a>
+- 🔐 <a href="https://github.com/ArturDeathCode0x/Have-I-Been-Pwned">Have I Been Pwned</a>
+- 🧰 <a href="https://github.com/ArturDeathCode0x/theHarvester">theHarvester</a>
+- 🕰️ <a href="https://github.com/ArturDeathCode0x/Wayback-Machine-OSINT">Wayback Machine OSINT</a>
+
+---
+
+<h3 align="center">☠️ HACK THE PLANET — THINK ETHICALLY.</h3>
+<p align="center"><code>deathcode0x@kali:~$</code> <strong>Explore. Learn. Test. Evolve.</strong></p>
