@@ -50,4 +50,4 @@
 ---
 
 <h3 align="center">☠️ HACK THE PLANET — THINK ETHICALLY.</h3>
-<p align="center"><code>deathcode0x@kali:~$</code> <strong>Explore. Learn. Test. Evolve.</strong></p>
+<p align="center"><code>deathcode0x@blackarch:~$</code> <strong>Explore. Learn. Test. Evolve.</strong></p>
